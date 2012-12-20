@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Build-Version: 1.7.5-jenkins-1
+Build-Number: t20121220_1510
+
